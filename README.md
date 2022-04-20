@@ -1,0 +1,1 @@
+A simple Calculator for simple mathematical calculations
